@@ -14,3 +14,18 @@ header {
 .red {
     background-color: red;
 }
+
+/* jumbotron */
+
+.avatar {
+    width: 300px;
+    margin: 0 auto;
+}
+.bg-green {
+    background-color: #1abc9c;
+    color: white;
+}
+
+.avatar-section {
+    padding: 50px 0;
+}
