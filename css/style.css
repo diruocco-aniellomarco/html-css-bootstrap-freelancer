@@ -15,7 +15,7 @@ header {
     background-color: red;
 }
 
-/* jumbotron */
+/* main*/
 
 .avatar {
     width: 300px;
@@ -26,6 +26,3 @@ header {
     color: white;
 }
 
-.avatar-section {
-    padding: 50px 0;
-}
