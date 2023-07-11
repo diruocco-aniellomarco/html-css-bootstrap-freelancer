@@ -1,3 +1,18 @@
+
+
+
+
+.bar {
+    content: '';
+    display: block;
+    height: 2px;
+    width: 100px;
+    background-color: white;    
+}
+
+.bg-black{
+     background-color: black
+}
 /* header */
 
 
